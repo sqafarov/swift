@@ -6,7 +6,7 @@
 //  Copyright © 2017 Said Qafarov. All rights reserved.
 //
 
-import Foundation
+import Foundation // comment
 
 var cameraResolution: String? = nil
 var cameraVideoFormat: String? = nil
